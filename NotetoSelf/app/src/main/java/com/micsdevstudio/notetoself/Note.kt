@@ -6,5 +6,5 @@ class Note {
     var idea: Boolean = false
     var todo: Boolean = false
     var important: Boolean = false
-    
+
 }
