@@ -22,7 +22,7 @@
         android:layout_marginStart="31dp"
         android:layout_marginTop="16dp"
         android:text="@string/todo_text"
-        app:layout_constraintStart_toStartOf="@+id/textTitle"
+        app:layout_constraintStart_toStartOf="@+id/txtTitle"
         app:layout_constraintTop_toTopOf="parent" />
 
     <TextView
@@ -36,7 +36,7 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <TextView
-        android:id="@+id/textTitle"
+        android:id="@+id/txtTitle"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="63dp"
