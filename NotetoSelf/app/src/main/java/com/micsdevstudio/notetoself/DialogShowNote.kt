@@ -53,6 +53,7 @@ class DialogShowNote : DialogFragment() {
           dismiss()
         })
 
+        return builder.create()
     }
 
     // Receive a note from the MainActivity class
